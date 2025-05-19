@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+requests
+beautifulsoup4
+textblob
+yfinance
+nsetools
+nsepy
+pandas
+numpy
