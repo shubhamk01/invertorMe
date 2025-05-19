@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+elasticsearch
+beautifulsoup4
+requests
+apscheduler
+numpy
+pandas
+scikit-learn
+alembic
